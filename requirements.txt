@@ -10,7 +10,7 @@ cryptography==41.0.3
 daphne==4.0.0
 defusedxml==0.8.0rc2
 Django==4.2.5
-django-channels==0.2112_ecom_website7.0
+django-channels==0.7.0
 django-cors-headers==4.3.1
 django-filter==24.2
 django-jazzmin==3.0.0
